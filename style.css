@@ -1,0 +1,16 @@
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+div.p p{
+    font-style: italic;
+    margin: auto;
+}
+
+div.p {
+    margin-left: 25%;
+}
+
